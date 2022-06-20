@@ -1,6 +1,6 @@
 # Nicole Ryan-Smith
 
-Technical writer, content designer, and UX enthusiast located in the Midwest
+Technical writer, content designer, and UX enthusiast
 
 ## Professional Experience
 
