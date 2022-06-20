@@ -1,6 +1,24 @@
-## Welcome to GitHub Pages
+# Nicole Ryan-Smith
 
-You can use the [editor on GitHub](https://github.com/nsrsmith/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Technical writer, content designer, and UX enthusiast located in the Midwest, US 
+
+## Professional Experience
+
+**Principal Technical Writer and Content Designer** @ Red Canary (October 2021 - Present)
+
+**Senior Technical Writer** @ Salesforce (April 2019 - September 2021)
+
+**Business Consultant | Marketing Technologies** @ Wells Fargo (May 2016 - April 2019)
+
+**Technical Writer and Trainer** @ Businessolver (November 2013 - May 2016)
+
+## Other Adventures
+
+**Website Administrator** @ Animal Rescue League of Iowa
+
+## Education
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -31,7 +49,3 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nsrsmith/digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
