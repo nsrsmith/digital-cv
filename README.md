@@ -25,8 +25,8 @@ Technical writer, content designer, and UX enthusiast
 
 ## :bulb: Other Adventures
 
-**Website Administrator** @ Animal Rescue League of Iowa, Animal House Store
-**Museum Asssistant** @ Iowa State University, University Museums
+**Website Administrator** @ Animal Rescue League of Iowa, Animal House Store<br>
+**Museum Asssistant** @ Iowa State University, University Museums<br>
 **Volunteer** @ Des Moines Art Fesitival
 
 ## :trophy: Skills
