@@ -52,6 +52,8 @@ Technical writer, content designer, and UX enthusiast
 - Mural
 - Figma
 - Snagit
+- Salesforce
+- CumulusCI
 - Beginner level Ruby and Python
 
 ## :woman_student: Education
