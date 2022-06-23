@@ -26,8 +26,33 @@ Technical writer, content designer, and UX enthusiast
 ## :bulb: Other Adventures
 
 **Website Administrator** @ Animal Rescue League of Iowa, Animal House Store
+**Museum Asssistant** @ Iowa State University, University Museums
+**Volunteer** @ Des Moines Art Fesitival
 
 ## :trophy: Skills
+- Technical writing
+- Editing
+- Instructional design
+- UX content strategy and development
+- Acessibility and inclusivity
+- Content Management Systems (CMS)
+- Response Web Design (HTML, CSS)
+- DITA XML
+- Markdown
+- Adobe Photoshop
+- Adobe InDesign
+- Adobe Captivate
+- JIRA
+- Confluence
+- Git
+- GitHub
+- VS Code
+- Jekyll
+- Heretto (easyDITA)
+- Mural
+- Figma
+- Snagit
+- Beginner level Ruby and Python
 
 ## :woman_student: Education
 
