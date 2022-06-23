@@ -42,6 +42,8 @@ Technical writer, content designer, and UX enthusiast
 - Adobe Photoshop
 - Adobe InDesign
 - Adobe Captivate
+- WalkMe
+- ChurnZero
 - JIRA
 - Confluence
 - Git
