@@ -6,7 +6,7 @@ Technical writer, content designer, and UX enthusiast
 
 **Principal Technical Writer and Content Designer** @ [Red Canary](https://redcanary.com/) _(October 2021 - Present)_
 - Works in parallel with developers during continuous development lifecycle to ensure high-quality documentation is published for internal users and customers in a timely manner
-- Leads content strategy initiatives for in-app language and help documentation based on userresearch and website metrics
+- Leads content strategy initiatives for in-app language and help documentation based on user research and website metrics
 - Establishes goals, processes, and style guide standards for new documentation team
 
 **Senior Technical Writer** @ [Salesforce](https://www.salesforce.org/) _(April 2019 - September 2021)_
