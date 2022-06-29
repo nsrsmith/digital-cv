@@ -21,6 +21,7 @@ Technical writer, content designer, and UX enthusiast
 
 **Technical Writer and Trainer** @ [Businessolver](https://www.businessolver.com/) _(November 2013 - May 2016)_
 - Owned end-to-end process of creating, disseminating, and managing training and process documentation to support technical and client-facing employees
+- Developed case studies and white papers to enable the sales team and inform current customers of new features and product launches
 - Managed and curated context-sensitive help system through HelpConsole and internal tutorials via WalkMe targeted at internal employees and customers
 
 ## :bulb: Other Adventures
