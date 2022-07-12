@@ -37,7 +37,7 @@ Technical writer, content designer, and UX enthusiast
 - UX content strategy and development
 - Acessibility and inclusivity
 - Content Management Systems (CMS)
-- Response Web Design (HTML, CSS)
+- Responsive Web Design (HTML, CSS)
 - DITA XML
 - Markdown
 - Adobe Photoshop
@@ -57,6 +57,7 @@ Technical writer, content designer, and UX enthusiast
 - Snagit
 - Salesforce
 - CumulusCI
+- VS Code
 - Beginner level Ruby and Python
 
 ## :woman_student: Education
