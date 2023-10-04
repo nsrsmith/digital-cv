@@ -12,7 +12,7 @@ Technical writer, content designer, and UX enthusiast
 **Senior Technical Writer (Contract)** @ [Salesforce.com](https://www.salesforce.com/) _(September 2022 - Present)_
 - Translated technical concepts into engaging web content (user documentation, support articles, and blog posts) that has reached over 17,000 unique users in eight months
 - Provided content strategy and created information architecture for new help documentation bundle and internal Confluence site
-- Wrote and edited executive talk tracks and newsletters 
+- Wrote and edited executive talk tracks, presentations, and newsletters 
 
 **Principal Content Designer** @ [Red Canary](https://redcanary.com/) _(October 2021 - September 2022)_
 - Worked closely with product managers and developers during continuous development lifecycle to produce external documentation, release notes, and UI text
