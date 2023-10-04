@@ -7,17 +7,17 @@ Technical writer, content designer, and UX enthusiast
 **Content Consultant (Freelance)** @ Writing Smith _(May 2023 - Present)_
 - Consults small businesses and nonprofits on their unique goals and strategies for existing and future content
 - Audits and provides recommendations for improving the user's digital experience, such as website redesign, tone and voice, and overall brand cohesion
-- Writes engaging and on-brand content, such as web copy, UI text, and help documentation
+- Writes engaging and on-brand content, including web copy, UI text, and help documentation
 
 **Senior Technical Writer (Contract)** @ [Salesforce.com](https://www.salesforce.com/) _(September 2022 - Present)_
 - Translated technical concepts into engaging web content (user documentation, support articles, and blog posts) that has reached over 17,000 unique users in eight months
-- Provided content strategy and created information architecture for new help documentation bundle and internal Confluence site
+- Provided content strategy and created information architecture for a new help documentation bundle and internal Confluence site
 - Wrote and edited executive talk tracks, presentations, and newsletters 
 
 **Principal Content Designer** @ [Red Canary](https://redcanary.com/) _(October 2021 - September 2022)_
-- Worked closely with product managers and developers during continuous development lifecycle to produce external documentation, release notes, and UI text
+- Worked closely with product managers and developers during the continuous development lifecycle to produce external documentation, release notes, and UI text
 - Led content strategy initiatives, including user research sessions, for in-app language and external help documentation
-- Established goals, processes, and style guide standards for new documentation team
+- Established goals, processes, and style guide standards for a new documentation team
 
 **Senior Technical Writer** @ [Salesforce.org](https://www.salesforce.org/) _(April 2019 - September 2021)_
 - Produced compassionately-authored internal, developer-focused, and customer-facing documentation for several Salesforce.org products
